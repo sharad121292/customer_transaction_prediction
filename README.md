@@ -1,4 +1,5 @@
 Customer Transaction Prediction
+
 📌 Overview
 
 This project focuses on predicting the likelihood of future customer transactions using high-dimensional transactional data. The objective is to build a robust machine learning classification model capable of handling class imbalance and feature complexity while optimizing predictive performance using ROC-AUC as the primary evaluation metric.
